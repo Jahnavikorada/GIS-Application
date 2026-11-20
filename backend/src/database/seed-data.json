@@ -1,0 +1,5 @@
+[
+  { "id": "P001", "name": "Electric Pole 01", "asset_type": "Pole",        "latitude": 26.15, "longitude": 91.75, "status": "Active" },
+  { "id": "T001", "name": "Transformer 01",   "asset_type": "Transformer", "latitude": 26.16, "longitude": 91.76, "status": "Inactive" },
+  { "id": "S001", "name": "Substation 01",    "asset_type": "Substation",  "latitude": 26.17, "longitude": 91.77, "status": "Active" }
+]
